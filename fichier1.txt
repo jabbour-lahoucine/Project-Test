@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 929A-93EE
+
+ Directory of C:\Users\moham\OneDrive\Bureau\DevOps\Project-test
+
+02/28/2024  09:25 AM    <DIR>          .
+02/28/2024  09:22 AM    <DIR>          ..
+02/28/2024  09:25 AM                 0 fichier1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  153,153,298,432 bytes free
